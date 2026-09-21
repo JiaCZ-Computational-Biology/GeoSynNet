@@ -9,8 +9,8 @@ GeoSynNet is a geometry-aware multimodal deep learning framework that integrates
 | Folder/File | Description |
 |--------------|-------------|
 | **`data/`** | Contains all datasets used in the experiments (full dataset, training set, validation set, and independent test set). |
-| **`train.py`** | Final model training script. |
-| **`test.py`** | Independent testing script. |
+| **`EGNN+RDKit.py`** | Final model training script. |
+| **`predict-EGNN+RDKit.py`** | Independent testing script. |
 | **`ablation/`** | Includes all ablation experiment code and related materials. |
 | **`gnn/`** | Contains implementations of the investigated graph neural networks. |
 | **`fingerprint/`** | Includes all molecular fingerprints used for experimental comparisons. |
