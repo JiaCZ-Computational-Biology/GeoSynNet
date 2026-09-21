@@ -13,7 +13,7 @@ GeoSynNet is a geometry-aware multimodal deep learning framework that integrates
 | **`predict-EGNN+RDKit.py`** | Independent testing script. |
 | **`ablation/`** | Includes all ablation experiment code and related materials. |
 | **`molecular representation/`** | incorporating multiple molecular representations and processing strategies. |
-| **`fingerprint/`** | Includes all molecular fingerprints used for experimental comparisons. |
+| **`molecular structural encoders`** | integrating multiple approaches for 3D molecular structure processing. |
 
 ---
 
